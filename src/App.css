@@ -1,10 +1,7 @@
 body{
-  background-color: aqua;
+  background-color: indianred;
   text-align: center;
   font-size: 70px;
   font-family: OCR A Extended, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.me{
-  background-image: url(./img/me.jpg)
-}
